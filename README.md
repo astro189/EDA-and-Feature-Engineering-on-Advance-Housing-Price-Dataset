@@ -8,6 +8,6 @@ Trying to implement EDA,feature engineering and feature selection techniques for
 <li>Dimensionality reduction of the data using lasso regression</li>
 <br>
 Since the Advance housing price dataset has so many features it helps to test out your skills to understand data and data preprocessing for getting better prediction results.
-
+<br>
 I further tried prediction on this dataset using a self built multiclass linearn regression model from scratch using only numpy.
 Also tried the SVR model on same using the sklearn library
